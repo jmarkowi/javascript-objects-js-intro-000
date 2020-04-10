@@ -1,1 +1,1 @@
-var playlist = { Infamouse Stringdusters:"Rise Sun"};
+var playlist = { Stringdusters:"Rise Sun"};
